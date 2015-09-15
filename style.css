@@ -1,0 +1,25 @@
+/*htmlの要素につけた特定のクラスに適用したい場合*/
+/*.hobby {
+  color: red;
+  font-size: 500%;
+}*/
+/*hobbyクラスのp要素にだけ適用したい場合*/
+p.hobby{
+  color: yellow;
+  font-size: 500%;
+}
+
+#name{
+  color: green;
+  font-size: 500%;
+}
+
+/*h2 {
+   color: red;
+   font-size: 500%;
+}*/
+
+h1 {
+   color: blue;
+   font-size: 500%;
+}

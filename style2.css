@@ -1,0 +1,21 @@
+section {
+width: 300px; /* ボックスの幅 */
+padding-bottom: 1px; /* ボックスの下パディング */
+background: #ffffff url(maru1_300_bottom.gif) no-repeat bottom; /* ボックスの背景 */
+font-size: 80%;
+color: #000000;
+}
+
+/* --- 見出し --- */
+section h2 {
+margin: 0; /* 見出しのマージン */
+padding: 7px 10px; /* 見出しのパディング（上下、左右） */
+background: #f9f9f9 url(maru4_300_top.gif) no-repeat top; /* 見出しの背景 */
+border-bottom: 1px #c0c0c0 solid; /* 見出しの下境界線 */
+font-size: 100%; /* 見出しの文字サイズ */
+}
+
+/* --- ボックス内の段落 --- */
+section p {
+margin: 1em 10px; /* 段落のマージン（上下、左右） */
+}
